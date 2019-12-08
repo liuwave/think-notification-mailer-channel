@@ -1,1 +1,1 @@
-# think-notification-mailer-channel
+# thinkphp-notification-mailer-channel
