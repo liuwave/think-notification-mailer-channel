@@ -1,0 +1,1 @@
+# think-notification-mailer-channel
